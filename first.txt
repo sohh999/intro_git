@@ -4,3 +4,4 @@ gitを使いこなす。
 
 アマテラス村岡。
 .git status
+.git diff
